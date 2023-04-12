@@ -39,5 +39,11 @@
     <ClCompile Include="src\01.入门系列 - Code\05-1.着色器-顶点上限获取.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\01.入门系列 - Code\05-2.着色器-输入和输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\模板文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
